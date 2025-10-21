@@ -40,7 +40,7 @@ Prerequisites
 
 Installation
 1. Clone the repository:
-2. 
+2. https://github.com/qxnqingxueng/visit-penang-website.git
 3. Install dependencies:
 4. Run the project:
 5. The application should open in your default browser, typically at http://localhost:3000.
